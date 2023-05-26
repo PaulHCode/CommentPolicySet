@@ -1,3 +1,37 @@
+
+<#PSScriptInfo
+
+.VERSION 1.0.0
+
+.GUID cc328e30-304f-426d-83c3-2ef20b68b97d
+
+.AUTHOR PaulHCode
+
+.COMPANYNAME
+
+.COPYRIGHT
+
+.TAGS
+
+.LICENSEURI
+
+.PROJECTURI https://github.com/PaulHCode/CommentPolicySet/blob/main/New-CommentPolicySet.ps1
+
+.ICONURI
+
+.EXTERNALMODULEDEPENDENCIES Az.Resources Az.Accounts
+
+.REQUIREDSCRIPTS
+
+.EXTERNALSCRIPTDEPENDENCIES
+
+.RELEASENOTES
+
+
+.PRIVATEDATA
+
+#>
+
 <#
     .SYNOPSIS
         This script will create a policy set definition for each control in a policy set which applies to each subscription.
